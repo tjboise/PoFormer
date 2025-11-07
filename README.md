@@ -1,8 +1,4 @@
 # PoFormer
 
-This Repo contains the **"PoFormer dataset"** which is a dataset for pothole segmentation task. 
-
-It is the proposed dataset shown in the submitted paper: 
-
-*Transformer–CNN Hybrid Framework for Pavement Pothole Segmentation*
+This Repo contains the **dataset** which is a dataset for pothole segmentation paper: *Transformer–CNN Hybrid Framework for Pavement Pothole Segmentation*
 
